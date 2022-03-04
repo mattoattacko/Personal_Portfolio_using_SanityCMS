@@ -14,8 +14,8 @@ export default {
             type:'string'
         },
         {
-            name:'imageurl',
-            title:'ImgURL',
+            name:'imgurl',
+            title:'ImgUrl',
             type: 'image',
             options: {
               hotspot: true, //allows users to crop image
