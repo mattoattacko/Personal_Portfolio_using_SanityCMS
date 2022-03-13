@@ -13,7 +13,7 @@
 
 - [JSM](https://www.youtube.com/c/JavaScriptMastery)
 
-###### My Info
-###### - [Profile](https://www.linkedin.com/in/matthewmcquain/ 'Matt McQuain')
-###### - [Email](mailto:matt@petrolnaut.com?subject=Portfolio% 'Hi!')
-###### - [Website](https://matt-port.netlify.app/ 'Portfolio')
+##### My Info
+- [Profile](https://www.linkedin.com/in/matthewmcquain/ 'Matt McQuain')
+- [Email](mailto:matt@petrolnaut.com?subject=Portfolio% 'Hi!')
+- [Website](https://matt-port.netlify.app/ 'Portfolio')
