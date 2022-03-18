@@ -1,7 +1,7 @@
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
-import cpp from '../assets/cpp.png';
+// import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
@@ -11,7 +11,7 @@ import html from '../assets/html.png';
 import javascript from '../assets/javascript.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
-import python from '../assets/python.png';
+// import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
@@ -43,12 +43,14 @@ import upwork02 from '../assets/upwork02.png';
 import psspt01 from '../assets/psspt01.png';
 import wcc01 from '../assets/wcc01.png';
 import Petrolnaut2 from '../assets/Petrolnaut2.png';
+import mattPic from '../assets/mattPic.png';
+import mattFixed02 from '../assets/mattFixed02.png';
 
 export default {
   email,
   mobile,
   api,
-  cpp,
+  // cpp,
   css,
   figma,
   flutter,
@@ -58,7 +60,7 @@ export default {
   javascript,
   mu5,
   node,
-  python,
+  // python,
   react,
   redux,
   sass,
@@ -87,4 +89,7 @@ export default {
   upwork02,
   wcc01,
   Petrolnaut2,
+
+  mattPic,
+  mattFixed02,
 };
