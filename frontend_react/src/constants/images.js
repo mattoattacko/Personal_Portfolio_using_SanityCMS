@@ -45,6 +45,9 @@ import wcc01 from '../assets/wcc01.png';
 import Petrolnaut2 from '../assets/Petrolnaut2.png';
 import mattPic from '../assets/mattPic.png';
 import mattFixed02 from '../assets/mattFixed02.png';
+import vite from '../assets/vite.png';
+import tailwind from '../assets/tailwind.png';
+import openai from '../assets/openai.png';
 
 export default {
   email,
@@ -92,4 +95,8 @@ export default {
 
   mattPic,
   mattFixed02,
+
+  vite,
+  tailwind,
+  openai,
 };
