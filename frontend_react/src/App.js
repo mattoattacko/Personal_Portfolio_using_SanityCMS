@@ -2,10 +2,12 @@ import React from 'react'
 
 import { About, Skills, Testimonial, Work, Header, Footer } from './container'
 import { Navbar } from './components'
+import SmoothScroll from './SmoothScroll'
 import './App.scss'
 
 const App = () => {
   return (
+    <SmoothScroll>
     <div className="app">
       <Navbar />
       <Header />
@@ -15,6 +17,7 @@ const App = () => {
       <Testimonial />
       <Footer />
     </div>
+    </SmoothScroll>
   )
 }
 
